@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "smoketestonmanagecenter",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine": "^3.1.0",
+    "protractor": "^5.3.2",
+    "protractor-jasmine2-html-reporter": "0.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deepa",
+  "license": "ISC"
+}
